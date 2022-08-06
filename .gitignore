@@ -2,16 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+FSMbasedPlayer/[Ll]ibrary/
+FSMbasedPlayer/[Tt]emp/
+FSMbasedPlayer/[Oo]bj/
+FSMbasedPlayer/[Bb]uild/
+FSMbasedPlayer/[Bb]uilds/
+FSMbasedPlayer/[Ll]ogs/
+FSMbasedPlayer/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
+!FSMbasedPlayer/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
